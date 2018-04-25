@@ -1,0 +1,10 @@
+D:\C# OOP Basics\Exercises Working with Abstraction\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.deps.json
+D:\C# OOP Basics\Exercises Working with Abstraction\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.runtimeconfig.json
+D:\C# OOP Basics\Exercises Working with Abstraction\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.runtimeconfig.dev.json
+D:\C# OOP Basics\Exercises Working with Abstraction\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.dll
+D:\C# OOP Basics\Exercises Working with Abstraction\P07_FamilyTree\bin\Debug\netcoreapp2.0\P07_FamilyTree.pdb
+D:\C# OOP Basics\Exercises Working with Abstraction\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.csproj.CoreCompileInputs.cache
+D:\C# OOP Basics\Exercises Working with Abstraction\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.AssemblyInfoInputs.cache
+D:\C# OOP Basics\Exercises Working with Abstraction\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.AssemblyInfo.cs
+D:\C# OOP Basics\Exercises Working with Abstraction\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.dll
+D:\C# OOP Basics\Exercises Working with Abstraction\P07_FamilyTree\obj\Debug\netcoreapp2.0\P07_FamilyTree.pdb

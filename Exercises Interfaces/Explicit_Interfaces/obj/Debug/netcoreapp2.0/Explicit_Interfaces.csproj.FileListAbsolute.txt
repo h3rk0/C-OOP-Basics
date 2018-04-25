@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exercises Interfaces\Explicit_Interfaces\obj\Debug\netcoreapp2.0\Explicit_Interfaces.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Exercises Interfaces\Explicit_Interfaces\obj\Debug\netcoreapp2.0\Explicit_Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exercises Interfaces\Explicit_Interfaces\obj\Debug\netcoreapp2.0\Explicit_Interfaces.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exercises Interfaces\Explicit_Interfaces\obj\Debug\netcoreapp2.0\Explicit_Interfaces.AssemblyInfo.cs
+C:\Users\User\source\repos\Exercises Interfaces\Explicit_Interfaces\bin\Debug\netcoreapp2.0\Explicit_Interfaces.deps.json
+C:\Users\User\source\repos\Exercises Interfaces\Explicit_Interfaces\bin\Debug\netcoreapp2.0\Explicit_Interfaces.runtimeconfig.json
+C:\Users\User\source\repos\Exercises Interfaces\Explicit_Interfaces\bin\Debug\netcoreapp2.0\Explicit_Interfaces.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exercises Interfaces\Explicit_Interfaces\bin\Debug\netcoreapp2.0\Explicit_Interfaces.dll
+C:\Users\User\source\repos\Exercises Interfaces\Explicit_Interfaces\bin\Debug\netcoreapp2.0\Explicit_Interfaces.pdb
+C:\Users\User\source\repos\Exercises Interfaces\Explicit_Interfaces\obj\Debug\netcoreapp2.0\Explicit_Interfaces.dll
+C:\Users\User\source\repos\Exercises Interfaces\Explicit_Interfaces\obj\Debug\netcoreapp2.0\Explicit_Interfaces.pdb

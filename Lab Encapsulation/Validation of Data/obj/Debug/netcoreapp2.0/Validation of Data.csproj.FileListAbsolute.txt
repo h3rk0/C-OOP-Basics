@@ -1,0 +1,11 @@
+D:\C# OOP Basics\Lab Encapsulation\Validation of Data\bin\Debug\netcoreapp2.0\Validation of Data.deps.json
+D:\C# OOP Basics\Lab Encapsulation\Validation of Data\bin\Debug\netcoreapp2.0\Validation of Data.runtimeconfig.json
+D:\C# OOP Basics\Lab Encapsulation\Validation of Data\bin\Debug\netcoreapp2.0\Validation of Data.runtimeconfig.dev.json
+D:\C# OOP Basics\Lab Encapsulation\Validation of Data\bin\Debug\netcoreapp2.0\Validation of Data.dll
+D:\C# OOP Basics\Lab Encapsulation\Validation of Data\bin\Debug\netcoreapp2.0\Validation of Data.pdb
+D:\C# OOP Basics\Lab Encapsulation\Validation of Data\obj\Debug\netcoreapp2.0\Validation of Data.csprojResolveAssemblyReference.cache
+D:\C# OOP Basics\Lab Encapsulation\Validation of Data\obj\Debug\netcoreapp2.0\Validation of Data.csproj.CoreCompileInputs.cache
+D:\C# OOP Basics\Lab Encapsulation\Validation of Data\obj\Debug\netcoreapp2.0\Validation of Data.AssemblyInfoInputs.cache
+D:\C# OOP Basics\Lab Encapsulation\Validation of Data\obj\Debug\netcoreapp2.0\Validation of Data.AssemblyInfo.cs
+D:\C# OOP Basics\Lab Encapsulation\Validation of Data\obj\Debug\netcoreapp2.0\Validation of Data.dll
+D:\C# OOP Basics\Lab Encapsulation\Validation of Data\obj\Debug\netcoreapp2.0\Validation of Data.pdb

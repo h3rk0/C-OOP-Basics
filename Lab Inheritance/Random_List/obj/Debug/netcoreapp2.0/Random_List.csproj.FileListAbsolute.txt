@@ -1,0 +1,11 @@
+c:\users\user\source\repos\Lab Inheritance\Random_List\bin\Debug\netcoreapp2.0\Random_List.deps.json
+c:\users\user\source\repos\Lab Inheritance\Random_List\bin\Debug\netcoreapp2.0\Random_List.runtimeconfig.json
+c:\users\user\source\repos\Lab Inheritance\Random_List\bin\Debug\netcoreapp2.0\Random_List.runtimeconfig.dev.json
+c:\users\user\source\repos\Lab Inheritance\Random_List\bin\Debug\netcoreapp2.0\Random_List.dll
+c:\users\user\source\repos\Lab Inheritance\Random_List\bin\Debug\netcoreapp2.0\Random_List.pdb
+c:\users\user\source\repos\Lab Inheritance\Random_List\obj\Debug\netcoreapp2.0\Random_List.csprojResolveAssemblyReference.cache
+c:\users\user\source\repos\Lab Inheritance\Random_List\obj\Debug\netcoreapp2.0\Random_List.csproj.CoreCompileInputs.cache
+c:\users\user\source\repos\Lab Inheritance\Random_List\obj\Debug\netcoreapp2.0\Random_List.AssemblyInfoInputs.cache
+c:\users\user\source\repos\Lab Inheritance\Random_List\obj\Debug\netcoreapp2.0\Random_List.AssemblyInfo.cs
+c:\users\user\source\repos\Lab Inheritance\Random_List\obj\Debug\netcoreapp2.0\Random_List.dll
+c:\users\user\source\repos\Lab Inheritance\Random_List\obj\Debug\netcoreapp2.0\Random_List.pdb

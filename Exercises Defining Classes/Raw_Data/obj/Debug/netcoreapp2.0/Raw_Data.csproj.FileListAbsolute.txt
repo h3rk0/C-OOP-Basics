@@ -1,0 +1,11 @@
+D:\C# OOP Basics\Exercises Defining Classes\Raw_Data\bin\Debug\netcoreapp2.0\Raw_Data.deps.json
+D:\C# OOP Basics\Exercises Defining Classes\Raw_Data\bin\Debug\netcoreapp2.0\Raw_Data.runtimeconfig.json
+D:\C# OOP Basics\Exercises Defining Classes\Raw_Data\bin\Debug\netcoreapp2.0\Raw_Data.runtimeconfig.dev.json
+D:\C# OOP Basics\Exercises Defining Classes\Raw_Data\bin\Debug\netcoreapp2.0\Raw_Data.dll
+D:\C# OOP Basics\Exercises Defining Classes\Raw_Data\bin\Debug\netcoreapp2.0\Raw_Data.pdb
+D:\C# OOP Basics\Exercises Defining Classes\Raw_Data\obj\Debug\netcoreapp2.0\Raw_Data.csprojResolveAssemblyReference.cache
+D:\C# OOP Basics\Exercises Defining Classes\Raw_Data\obj\Debug\netcoreapp2.0\Raw_Data.csproj.CoreCompileInputs.cache
+D:\C# OOP Basics\Exercises Defining Classes\Raw_Data\obj\Debug\netcoreapp2.0\Raw_Data.AssemblyInfoInputs.cache
+D:\C# OOP Basics\Exercises Defining Classes\Raw_Data\obj\Debug\netcoreapp2.0\Raw_Data.AssemblyInfo.cs
+D:\C# OOP Basics\Exercises Defining Classes\Raw_Data\obj\Debug\netcoreapp2.0\Raw_Data.dll
+D:\C# OOP Basics\Exercises Defining Classes\Raw_Data\obj\Debug\netcoreapp2.0\Raw_Data.pdb

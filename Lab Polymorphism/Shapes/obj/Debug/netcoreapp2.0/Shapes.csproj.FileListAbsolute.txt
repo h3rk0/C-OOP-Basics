@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Lab Polymorphism\Shapes\bin\Debug\netcoreapp2.0\Shapes.deps.json
+C:\Users\User\source\repos\Lab Polymorphism\Shapes\bin\Debug\netcoreapp2.0\Shapes.runtimeconfig.json
+C:\Users\User\source\repos\Lab Polymorphism\Shapes\bin\Debug\netcoreapp2.0\Shapes.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lab Polymorphism\Shapes\bin\Debug\netcoreapp2.0\Shapes.dll
+C:\Users\User\source\repos\Lab Polymorphism\Shapes\bin\Debug\netcoreapp2.0\Shapes.pdb
+C:\Users\User\source\repos\Lab Polymorphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Lab Polymorphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab Polymorphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab Polymorphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab Polymorphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.dll
+C:\Users\User\source\repos\Lab Polymorphism\Shapes\obj\Debug\netcoreapp2.0\Shapes.pdb

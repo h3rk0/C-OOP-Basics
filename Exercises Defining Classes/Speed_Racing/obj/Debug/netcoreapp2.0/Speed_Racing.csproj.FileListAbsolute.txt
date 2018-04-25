@@ -1,0 +1,11 @@
+D:\C# OOP Basics\Exercises Defining Classes\Speed_Racing\bin\Debug\netcoreapp2.0\Speed_Racing.deps.json
+D:\C# OOP Basics\Exercises Defining Classes\Speed_Racing\bin\Debug\netcoreapp2.0\Speed_Racing.runtimeconfig.json
+D:\C# OOP Basics\Exercises Defining Classes\Speed_Racing\bin\Debug\netcoreapp2.0\Speed_Racing.runtimeconfig.dev.json
+D:\C# OOP Basics\Exercises Defining Classes\Speed_Racing\bin\Debug\netcoreapp2.0\Speed_Racing.dll
+D:\C# OOP Basics\Exercises Defining Classes\Speed_Racing\bin\Debug\netcoreapp2.0\Speed_Racing.pdb
+D:\C# OOP Basics\Exercises Defining Classes\Speed_Racing\obj\Debug\netcoreapp2.0\Speed_Racing.csprojResolveAssemblyReference.cache
+D:\C# OOP Basics\Exercises Defining Classes\Speed_Racing\obj\Debug\netcoreapp2.0\Speed_Racing.csproj.CoreCompileInputs.cache
+D:\C# OOP Basics\Exercises Defining Classes\Speed_Racing\obj\Debug\netcoreapp2.0\Speed_Racing.AssemblyInfoInputs.cache
+D:\C# OOP Basics\Exercises Defining Classes\Speed_Racing\obj\Debug\netcoreapp2.0\Speed_Racing.AssemblyInfo.cs
+D:\C# OOP Basics\Exercises Defining Classes\Speed_Racing\obj\Debug\netcoreapp2.0\Speed_Racing.dll
+D:\C# OOP Basics\Exercises Defining Classes\Speed_Racing\obj\Debug\netcoreapp2.0\Speed_Racing.pdb

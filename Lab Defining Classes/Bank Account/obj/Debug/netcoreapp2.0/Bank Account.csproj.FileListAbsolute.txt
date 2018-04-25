@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Lab Defining Classes\Bank Account\bin\Debug\netcoreapp2.0\Bank Account.deps.json
+C:\Users\User\source\repos\Lab Defining Classes\Bank Account\bin\Debug\netcoreapp2.0\Bank Account.runtimeconfig.json
+C:\Users\User\source\repos\Lab Defining Classes\Bank Account\bin\Debug\netcoreapp2.0\Bank Account.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lab Defining Classes\Bank Account\bin\Debug\netcoreapp2.0\Bank Account.dll
+C:\Users\User\source\repos\Lab Defining Classes\Bank Account\bin\Debug\netcoreapp2.0\Bank Account.pdb
+C:\Users\User\source\repos\Lab Defining Classes\Bank Account\obj\Debug\netcoreapp2.0\Bank Account.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Lab Defining Classes\Bank Account\obj\Debug\netcoreapp2.0\Bank Account.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab Defining Classes\Bank Account\obj\Debug\netcoreapp2.0\Bank Account.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab Defining Classes\Bank Account\obj\Debug\netcoreapp2.0\Bank Account.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab Defining Classes\Bank Account\obj\Debug\netcoreapp2.0\Bank Account.dll
+C:\Users\User\source\repos\Lab Defining Classes\Bank Account\obj\Debug\netcoreapp2.0\Bank Account.pdb

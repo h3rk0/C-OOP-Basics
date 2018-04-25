@@ -1,0 +1,11 @@
+D:\C# OOP Basics\Exercises Defining Classes\Creating Constructors\bin\Debug\netcoreapp2.0\Creating Constructors.deps.json
+D:\C# OOP Basics\Exercises Defining Classes\Creating Constructors\bin\Debug\netcoreapp2.0\Creating Constructors.runtimeconfig.json
+D:\C# OOP Basics\Exercises Defining Classes\Creating Constructors\bin\Debug\netcoreapp2.0\Creating Constructors.runtimeconfig.dev.json
+D:\C# OOP Basics\Exercises Defining Classes\Creating Constructors\bin\Debug\netcoreapp2.0\Creating Constructors.dll
+D:\C# OOP Basics\Exercises Defining Classes\Creating Constructors\bin\Debug\netcoreapp2.0\Creating Constructors.pdb
+D:\C# OOP Basics\Exercises Defining Classes\Creating Constructors\obj\Debug\netcoreapp2.0\Creating Constructors.csprojResolveAssemblyReference.cache
+D:\C# OOP Basics\Exercises Defining Classes\Creating Constructors\obj\Debug\netcoreapp2.0\Creating Constructors.csproj.CoreCompileInputs.cache
+D:\C# OOP Basics\Exercises Defining Classes\Creating Constructors\obj\Debug\netcoreapp2.0\Creating Constructors.AssemblyInfoInputs.cache
+D:\C# OOP Basics\Exercises Defining Classes\Creating Constructors\obj\Debug\netcoreapp2.0\Creating Constructors.AssemblyInfo.cs
+D:\C# OOP Basics\Exercises Defining Classes\Creating Constructors\obj\Debug\netcoreapp2.0\Creating Constructors.dll
+D:\C# OOP Basics\Exercises Defining Classes\Creating Constructors\obj\Debug\netcoreapp2.0\Creating Constructors.pdb

@@ -1,0 +1,11 @@
+D:\C# OOP Basics\Exercises Defining Classes\Define a Class Person\bin\Debug\netcoreapp2.0\Define a Class Person.deps.json
+D:\C# OOP Basics\Exercises Defining Classes\Define a Class Person\bin\Debug\netcoreapp2.0\Define a Class Person.runtimeconfig.json
+D:\C# OOP Basics\Exercises Defining Classes\Define a Class Person\bin\Debug\netcoreapp2.0\Define a Class Person.runtimeconfig.dev.json
+D:\C# OOP Basics\Exercises Defining Classes\Define a Class Person\bin\Debug\netcoreapp2.0\Define a Class Person.dll
+D:\C# OOP Basics\Exercises Defining Classes\Define a Class Person\bin\Debug\netcoreapp2.0\Define a Class Person.pdb
+D:\C# OOP Basics\Exercises Defining Classes\Define a Class Person\obj\Debug\netcoreapp2.0\Define a Class Person.csprojResolveAssemblyReference.cache
+D:\C# OOP Basics\Exercises Defining Classes\Define a Class Person\obj\Debug\netcoreapp2.0\Define a Class Person.csproj.CoreCompileInputs.cache
+D:\C# OOP Basics\Exercises Defining Classes\Define a Class Person\obj\Debug\netcoreapp2.0\Define a Class Person.AssemblyInfoInputs.cache
+D:\C# OOP Basics\Exercises Defining Classes\Define a Class Person\obj\Debug\netcoreapp2.0\Define a Class Person.AssemblyInfo.cs
+D:\C# OOP Basics\Exercises Defining Classes\Define a Class Person\obj\Debug\netcoreapp2.0\Define a Class Person.dll
+D:\C# OOP Basics\Exercises Defining Classes\Define a Class Person\obj\Debug\netcoreapp2.0\Define a Class Person.pdb

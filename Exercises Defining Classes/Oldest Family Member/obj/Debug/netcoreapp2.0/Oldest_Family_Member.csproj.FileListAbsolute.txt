@@ -1,0 +1,11 @@
+D:\C# OOP Basics\Exercises Defining Classes\Oldest Family Member\obj\Debug\netcoreapp2.0\Oldest_Family_Member.csprojResolveAssemblyReference.cache
+D:\C# OOP Basics\Exercises Defining Classes\Oldest Family Member\obj\Debug\netcoreapp2.0\Oldest_Family_Member.csproj.CoreCompileInputs.cache
+D:\C# OOP Basics\Exercises Defining Classes\Oldest Family Member\obj\Debug\netcoreapp2.0\Oldest_Family_Member.AssemblyInfoInputs.cache
+D:\C# OOP Basics\Exercises Defining Classes\Oldest Family Member\obj\Debug\netcoreapp2.0\Oldest_Family_Member.AssemblyInfo.cs
+D:\C# OOP Basics\Exercises Defining Classes\Oldest Family Member\bin\Debug\netcoreapp2.0\Oldest_Family_Member.deps.json
+D:\C# OOP Basics\Exercises Defining Classes\Oldest Family Member\bin\Debug\netcoreapp2.0\Oldest_Family_Member.runtimeconfig.json
+D:\C# OOP Basics\Exercises Defining Classes\Oldest Family Member\bin\Debug\netcoreapp2.0\Oldest_Family_Member.runtimeconfig.dev.json
+D:\C# OOP Basics\Exercises Defining Classes\Oldest Family Member\bin\Debug\netcoreapp2.0\Oldest_Family_Member.dll
+D:\C# OOP Basics\Exercises Defining Classes\Oldest Family Member\bin\Debug\netcoreapp2.0\Oldest_Family_Member.pdb
+D:\C# OOP Basics\Exercises Defining Classes\Oldest Family Member\obj\Debug\netcoreapp2.0\Oldest_Family_Member.dll
+D:\C# OOP Basics\Exercises Defining Classes\Oldest Family Member\obj\Debug\netcoreapp2.0\Oldest_Family_Member.pdb

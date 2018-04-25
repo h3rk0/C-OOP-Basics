@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Lab Defining Classes\Test Client\bin\Debug\netcoreapp2.0\Test Client.deps.json
+C:\Users\User\source\repos\Lab Defining Classes\Test Client\bin\Debug\netcoreapp2.0\Test Client.runtimeconfig.json
+C:\Users\User\source\repos\Lab Defining Classes\Test Client\bin\Debug\netcoreapp2.0\Test Client.runtimeconfig.dev.json
+C:\Users\User\source\repos\Lab Defining Classes\Test Client\bin\Debug\netcoreapp2.0\Test Client.dll
+C:\Users\User\source\repos\Lab Defining Classes\Test Client\bin\Debug\netcoreapp2.0\Test Client.pdb
+C:\Users\User\source\repos\Lab Defining Classes\Test Client\obj\Debug\netcoreapp2.0\Test Client.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Lab Defining Classes\Test Client\obj\Debug\netcoreapp2.0\Test Client.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Lab Defining Classes\Test Client\obj\Debug\netcoreapp2.0\Test Client.AssemblyInfo.cs
+C:\Users\User\source\repos\Lab Defining Classes\Test Client\obj\Debug\netcoreapp2.0\Test Client.dll
+C:\Users\User\source\repos\Lab Defining Classes\Test Client\obj\Debug\netcoreapp2.0\Test Client.pdb
+C:\Users\User\source\repos\Lab Defining Classes\Test Client\obj\Debug\netcoreapp2.0\Test Client.csprojResolveAssemblyReference.cache

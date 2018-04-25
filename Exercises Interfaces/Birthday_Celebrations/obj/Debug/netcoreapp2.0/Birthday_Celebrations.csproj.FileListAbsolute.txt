@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exercises Interfaces\Birthday_Celebrations\bin\Debug\netcoreapp2.0\Birthday_Celebrations.deps.json
+C:\Users\User\source\repos\Exercises Interfaces\Birthday_Celebrations\bin\Debug\netcoreapp2.0\Birthday_Celebrations.runtimeconfig.json
+C:\Users\User\source\repos\Exercises Interfaces\Birthday_Celebrations\bin\Debug\netcoreapp2.0\Birthday_Celebrations.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exercises Interfaces\Birthday_Celebrations\bin\Debug\netcoreapp2.0\Birthday_Celebrations.dll
+C:\Users\User\source\repos\Exercises Interfaces\Birthday_Celebrations\bin\Debug\netcoreapp2.0\Birthday_Celebrations.pdb
+C:\Users\User\source\repos\Exercises Interfaces\Birthday_Celebrations\obj\Debug\netcoreapp2.0\Birthday_Celebrations.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Exercises Interfaces\Birthday_Celebrations\obj\Debug\netcoreapp2.0\Birthday_Celebrations.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exercises Interfaces\Birthday_Celebrations\obj\Debug\netcoreapp2.0\Birthday_Celebrations.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exercises Interfaces\Birthday_Celebrations\obj\Debug\netcoreapp2.0\Birthday_Celebrations.AssemblyInfo.cs
+C:\Users\User\source\repos\Exercises Interfaces\Birthday_Celebrations\obj\Debug\netcoreapp2.0\Birthday_Celebrations.dll
+C:\Users\User\source\repos\Exercises Interfaces\Birthday_Celebrations\obj\Debug\netcoreapp2.0\Birthday_Celebrations.pdb

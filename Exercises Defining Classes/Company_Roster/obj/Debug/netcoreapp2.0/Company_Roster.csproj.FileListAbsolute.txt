@@ -1,0 +1,11 @@
+D:\C# OOP Basics\Exercises Defining Classes\Company_Roster\bin\Debug\netcoreapp2.0\Company_Roster.deps.json
+D:\C# OOP Basics\Exercises Defining Classes\Company_Roster\bin\Debug\netcoreapp2.0\Company_Roster.runtimeconfig.json
+D:\C# OOP Basics\Exercises Defining Classes\Company_Roster\bin\Debug\netcoreapp2.0\Company_Roster.runtimeconfig.dev.json
+D:\C# OOP Basics\Exercises Defining Classes\Company_Roster\bin\Debug\netcoreapp2.0\Company_Roster.dll
+D:\C# OOP Basics\Exercises Defining Classes\Company_Roster\bin\Debug\netcoreapp2.0\Company_Roster.pdb
+D:\C# OOP Basics\Exercises Defining Classes\Company_Roster\obj\Debug\netcoreapp2.0\Company_Roster.csprojResolveAssemblyReference.cache
+D:\C# OOP Basics\Exercises Defining Classes\Company_Roster\obj\Debug\netcoreapp2.0\Company_Roster.csproj.CoreCompileInputs.cache
+D:\C# OOP Basics\Exercises Defining Classes\Company_Roster\obj\Debug\netcoreapp2.0\Company_Roster.AssemblyInfoInputs.cache
+D:\C# OOP Basics\Exercises Defining Classes\Company_Roster\obj\Debug\netcoreapp2.0\Company_Roster.AssemblyInfo.cs
+D:\C# OOP Basics\Exercises Defining Classes\Company_Roster\obj\Debug\netcoreapp2.0\Company_Roster.dll
+D:\C# OOP Basics\Exercises Defining Classes\Company_Roster\obj\Debug\netcoreapp2.0\Company_Roster.pdb

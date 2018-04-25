@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\Exercises Interfaces\Collection Hierarchy\bin\Debug\netcoreapp2.0\Collection_Hierarchy.deps.json
+C:\Users\User\source\repos\Exercises Interfaces\Collection Hierarchy\bin\Debug\netcoreapp2.0\Collection_Hierarchy.runtimeconfig.json
+C:\Users\User\source\repos\Exercises Interfaces\Collection Hierarchy\bin\Debug\netcoreapp2.0\Collection_Hierarchy.runtimeconfig.dev.json
+C:\Users\User\source\repos\Exercises Interfaces\Collection Hierarchy\bin\Debug\netcoreapp2.0\Collection_Hierarchy.dll
+C:\Users\User\source\repos\Exercises Interfaces\Collection Hierarchy\bin\Debug\netcoreapp2.0\Collection_Hierarchy.pdb
+C:\Users\User\source\repos\Exercises Interfaces\Collection Hierarchy\obj\Debug\netcoreapp2.0\Collection_Hierarchy.csprojResolveAssemblyReference.cache
+C:\Users\User\source\repos\Exercises Interfaces\Collection Hierarchy\obj\Debug\netcoreapp2.0\Collection_Hierarchy.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Exercises Interfaces\Collection Hierarchy\obj\Debug\netcoreapp2.0\Collection_Hierarchy.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\Exercises Interfaces\Collection Hierarchy\obj\Debug\netcoreapp2.0\Collection_Hierarchy.AssemblyInfo.cs
+C:\Users\User\source\repos\Exercises Interfaces\Collection Hierarchy\obj\Debug\netcoreapp2.0\Collection_Hierarchy.dll
+C:\Users\User\source\repos\Exercises Interfaces\Collection Hierarchy\obj\Debug\netcoreapp2.0\Collection_Hierarchy.pdb

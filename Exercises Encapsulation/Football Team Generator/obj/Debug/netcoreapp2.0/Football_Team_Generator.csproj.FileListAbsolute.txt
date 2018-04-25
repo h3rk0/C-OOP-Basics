@@ -1,0 +1,11 @@
+D:\C# OOP Basics\Exercises Encapsulation\Football Team Generator\bin\Debug\netcoreapp2.0\Football_Team_Generator.deps.json
+D:\C# OOP Basics\Exercises Encapsulation\Football Team Generator\bin\Debug\netcoreapp2.0\Football_Team_Generator.runtimeconfig.json
+D:\C# OOP Basics\Exercises Encapsulation\Football Team Generator\bin\Debug\netcoreapp2.0\Football_Team_Generator.runtimeconfig.dev.json
+D:\C# OOP Basics\Exercises Encapsulation\Football Team Generator\bin\Debug\netcoreapp2.0\Football_Team_Generator.dll
+D:\C# OOP Basics\Exercises Encapsulation\Football Team Generator\bin\Debug\netcoreapp2.0\Football_Team_Generator.pdb
+D:\C# OOP Basics\Exercises Encapsulation\Football Team Generator\obj\Debug\netcoreapp2.0\Football_Team_Generator.csprojResolveAssemblyReference.cache
+D:\C# OOP Basics\Exercises Encapsulation\Football Team Generator\obj\Debug\netcoreapp2.0\Football_Team_Generator.csproj.CoreCompileInputs.cache
+D:\C# OOP Basics\Exercises Encapsulation\Football Team Generator\obj\Debug\netcoreapp2.0\Football_Team_Generator.AssemblyInfoInputs.cache
+D:\C# OOP Basics\Exercises Encapsulation\Football Team Generator\obj\Debug\netcoreapp2.0\Football_Team_Generator.AssemblyInfo.cs
+D:\C# OOP Basics\Exercises Encapsulation\Football Team Generator\obj\Debug\netcoreapp2.0\Football_Team_Generator.dll
+D:\C# OOP Basics\Exercises Encapsulation\Football Team Generator\obj\Debug\netcoreapp2.0\Football_Team_Generator.pdb

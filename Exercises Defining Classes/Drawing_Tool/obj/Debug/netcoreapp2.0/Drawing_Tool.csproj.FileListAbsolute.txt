@@ -1,0 +1,11 @@
+D:\C# OOP Basics\Exercises Defining Classes\Drawing_Tool\bin\Debug\netcoreapp2.0\Drawing_Tool.deps.json
+D:\C# OOP Basics\Exercises Defining Classes\Drawing_Tool\bin\Debug\netcoreapp2.0\Drawing_Tool.runtimeconfig.json
+D:\C# OOP Basics\Exercises Defining Classes\Drawing_Tool\bin\Debug\netcoreapp2.0\Drawing_Tool.runtimeconfig.dev.json
+D:\C# OOP Basics\Exercises Defining Classes\Drawing_Tool\bin\Debug\netcoreapp2.0\Drawing_Tool.dll
+D:\C# OOP Basics\Exercises Defining Classes\Drawing_Tool\bin\Debug\netcoreapp2.0\Drawing_Tool.pdb
+D:\C# OOP Basics\Exercises Defining Classes\Drawing_Tool\obj\Debug\netcoreapp2.0\Drawing_Tool.csprojResolveAssemblyReference.cache
+D:\C# OOP Basics\Exercises Defining Classes\Drawing_Tool\obj\Debug\netcoreapp2.0\Drawing_Tool.csproj.CoreCompileInputs.cache
+D:\C# OOP Basics\Exercises Defining Classes\Drawing_Tool\obj\Debug\netcoreapp2.0\Drawing_Tool.AssemblyInfoInputs.cache
+D:\C# OOP Basics\Exercises Defining Classes\Drawing_Tool\obj\Debug\netcoreapp2.0\Drawing_Tool.AssemblyInfo.cs
+D:\C# OOP Basics\Exercises Defining Classes\Drawing_Tool\obj\Debug\netcoreapp2.0\Drawing_Tool.dll
+D:\C# OOP Basics\Exercises Defining Classes\Drawing_Tool\obj\Debug\netcoreapp2.0\Drawing_Tool.pdb
